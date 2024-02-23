@@ -53,4 +53,6 @@ public class ContactContext {
         this.mail=mail;
         this.company=company;
     }
+
+//    Test
 }
